@@ -1,0 +1,17 @@
+{
+  "steps": [
+    {
+      "startTime": 0,
+      "endTime": 9.990499999999974
+    },
+    {
+      "startTime": 0,
+      "endTime": 5.077171612182604
+    },
+    {
+      "startTime": 5.077171612182604,
+      "endTime": 9.990499999999974
+    }
+  ],
+  "annotations": []
+}
